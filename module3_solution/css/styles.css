@@ -7,6 +7,10 @@
 	margin-right: -15px;
 	background-color: #cd7054;
 }
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 .navbar-default .navbar-brand {
 	color: black;
 }
@@ -16,11 +20,16 @@
 .navbar-default .navbar-toggle .icon-bar {
   background-color: black; 
 }
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 .navbar-header {
 	height: 75px;
 }
 .navbar-brand {
 	padding-left: 25px;
+<<<<<<< Updated upstream
 	padding-top: 25px;  
 	padding-bottom: 0px;
 	font-size: 36px;
@@ -28,6 +37,17 @@
 .navbar-toggle {
 	margin-top: 17px;
 }
+=======
+	padding-top: 25px; 
+	padding-bottom: 0px;
+	font-size: 36px;
+}
+
+.navbar-toggle {
+	margin-top: 17px;
+}
+
+>>>>>>> Stashed changes
 ul.nav {
 	margin-top: 0px;
 	margin-bottom: 0px;
@@ -49,7 +69,11 @@ div#hidden-btn.navbar-collapse.collapse.in {
 }
 @media (min-width: 768px) {
 	div#hidden-btn.navbar-collapse.collapse.in {
+<<<<<<< Updated upstream
 		border: 1px solid #ff8c69;
+=======
+		border: 1px solid #cd7054;
+>>>>>>> Stashed changes
 	}
 }
 h1 {
@@ -65,10 +89,18 @@ h2 {
 	padding-bottom: 0px;
 	margin-bottom: 0px;
 }
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 p {
 	padding: 0 1em 1em 1em;
 	font-size: 16px;
 }
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 @media (max-width: 767px) {
 	.col-xs-12 {
 		padding-left: 80px;
